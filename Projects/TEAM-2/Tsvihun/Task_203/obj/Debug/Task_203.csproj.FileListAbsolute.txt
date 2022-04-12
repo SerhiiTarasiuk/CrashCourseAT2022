@@ -1,0 +1,6 @@
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_203\bin\Debug\Task_203.exe.config
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_203\bin\Debug\Task_203.exe
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_203\bin\Debug\Task_203.pdb
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_203\obj\Debug\Task_203.csproj.CoreCompileInputs.cache
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_203\obj\Debug\Task_203.exe
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_203\obj\Debug\Task_203.pdb

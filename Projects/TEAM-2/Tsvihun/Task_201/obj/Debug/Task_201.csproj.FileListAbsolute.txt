@@ -1,0 +1,14 @@
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\bin\Debug\Task_201.exe.config
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\bin\Debug\Task_201.exe
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\bin\Debug\Task_201.pdb
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\obj\Debug\Task_201.csproj.AssemblyReference.cache
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\obj\Debug\Task_201.csproj.CoreCompileInputs.cache
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\obj\Debug\Task_201.exe
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Tsvihun\Task_201\obj\Debug\Task_201.pdb
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\bin\Debug\Task_201.exe.config
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\bin\Debug\Task_201.exe
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\bin\Debug\Task_201.pdb
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\obj\Debug\Task_201.csproj.AssemblyReference.cache
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\obj\Debug\Task_201.csproj.CoreCompileInputs.cache
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\obj\Debug\Task_201.exe
+C:\STUDY\SoftServe\TAQC_2022\CrashCourseAT2022\Projects\TEAM-2\Tsvihun\Task_201\obj\Debug\Task_201.pdb
