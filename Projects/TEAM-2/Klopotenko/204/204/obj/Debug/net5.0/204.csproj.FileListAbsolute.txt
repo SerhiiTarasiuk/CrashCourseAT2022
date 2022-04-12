@@ -1,0 +1,15 @@
+/Users/vladklopotenko/Desktop/TASKS/204/204/bin/Debug/net5.0/204.deps.json
+/Users/vladklopotenko/Desktop/TASKS/204/204/bin/Debug/net5.0/204.runtimeconfig.json
+/Users/vladklopotenko/Desktop/TASKS/204/204/bin/Debug/net5.0/204.runtimeconfig.dev.json
+/Users/vladklopotenko/Desktop/TASKS/204/204/bin/Debug/net5.0/204.dll
+/Users/vladklopotenko/Desktop/TASKS/204/204/bin/Debug/net5.0/ref/204.dll
+/Users/vladklopotenko/Desktop/TASKS/204/204/bin/Debug/net5.0/204.pdb
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.csproj.AssemblyReference.cache
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.AssemblyInfoInputs.cache
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.AssemblyInfo.cs
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.csproj.CoreCompileInputs.cache
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.dll
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/ref/204.dll
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.pdb
+/Users/vladklopotenko/Desktop/TASKS/204/204/obj/Debug/net5.0/204.genruntimeconfig.cache
