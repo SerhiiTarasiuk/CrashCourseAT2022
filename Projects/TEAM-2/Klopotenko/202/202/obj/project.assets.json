@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladklopotenko/Desktop/TASKS/202/202/202.csproj",
+      "projectUniqueName": "/Users/vladklopotenko/Documents/GitHub/CrashCourseAT2022/Projects/TEAM-2/Klopotenko/202/202/202.csproj",
       "projectName": "202",
-      "projectPath": "/Users/vladklopotenko/Desktop/TASKS/202/202/202.csproj",
+      "projectPath": "/Users/vladklopotenko/Documents/GitHub/CrashCourseAT2022/Projects/TEAM-2/Klopotenko/202/202/202.csproj",
       "packagesPath": "/Users/vladklopotenko/.nuget/packages/",
-      "outputPath": "/Users/vladklopotenko/Desktop/TASKS/202/202/obj/",
+      "outputPath": "/Users/vladklopotenko/Documents/GitHub/CrashCourseAT2022/Projects/TEAM-2/Klopotenko/202/202/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladklopotenko/.config/NuGet/NuGet.Config"

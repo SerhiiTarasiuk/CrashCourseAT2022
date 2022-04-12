@@ -6,9 +6,9 @@ namespace _202
     {
         static void Main(string[] args)
         {
-            double uah = 100;
+            double uah = 3206;
             double exchangeRate = 32.06;
-            Console.WriteLine($"{uah} UAH is {uah * exchangeRate} EUR");
+            Console.WriteLine($"{uah} UAH is {uah / exchangeRate} EUR");
         }
     }
 }

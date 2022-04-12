@@ -16,13 +16,13 @@ namespace _208
             {
                 Console.Write("Enter the value of centimeters: ");
                 double a = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine($"{a} centimeters is {a * 2.54} inches");
+                Console.WriteLine($"{a} centimeters is {a / 2.54} inches");
             }
             if (whatToDo == "Convert inches to centimeters")
             {
                 Console.Write("Enter the value of inches: ");
                 double a = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine($"{a} inches is {a / 2.54} centimeters");
+                Console.WriteLine($"{a} inches is {a * 2.54} centimeters");
             }
 
         }
