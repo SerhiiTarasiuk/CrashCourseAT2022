@@ -1,0 +1,8 @@
+C:\Users\denis\source\repos\lab\206\bin\Debug\206.exe.config
+C:\Users\denis\source\repos\lab\206\bin\Debug\206.exe
+C:\Users\denis\source\repos\lab\206\bin\Debug\206.pdb
+C:\Users\denis\source\repos\lab\206\obj\Debug\206.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\lab\206\obj\Debug\206.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\lab\206\obj\Debug\206.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\lab\206\obj\Debug\206.exe
+C:\Users\denis\source\repos\lab\206\obj\Debug\206.pdb

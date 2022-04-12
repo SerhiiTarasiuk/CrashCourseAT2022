@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladklopotenko/Desktop/TASKS/201/201/201.csproj": {}
+    "C:\\Users\\denis\\source\\repos\\RV2022ATQC\\CrashCourseAT2022\\Projects\\TEAM-2\\Klopotenko\\201\\201\\201.csproj": {}
   },
   "projects": {
-    "/Users/vladklopotenko/Desktop/TASKS/201/201/201.csproj": {
+    "C:\\Users\\denis\\source\\repos\\RV2022ATQC\\CrashCourseAT2022\\Projects\\TEAM-2\\Klopotenko\\201\\201\\201.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladklopotenko/Desktop/TASKS/201/201/201.csproj",
+        "projectUniqueName": "C:\\Users\\denis\\source\\repos\\RV2022ATQC\\CrashCourseAT2022\\Projects\\TEAM-2\\Klopotenko\\201\\201\\201.csproj",
         "projectName": "201",
-        "projectPath": "/Users/vladklopotenko/Desktop/TASKS/201/201/201.csproj",
-        "packagesPath": "/Users/vladklopotenko/.nuget/packages/",
-        "outputPath": "/Users/vladklopotenko/Desktop/TASKS/201/201/obj/",
+        "projectPath": "C:\\Users\\denis\\source\\repos\\RV2022ATQC\\CrashCourseAT2022\\Projects\\TEAM-2\\Klopotenko\\201\\201\\201.csproj",
+        "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\denis\\source\\repos\\RV2022ATQC\\CrashCourseAT2022\\Projects\\TEAM-2\\Klopotenko\\201\\201\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vladklopotenko/.config/NuGet/NuGet.Config"
+          "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
