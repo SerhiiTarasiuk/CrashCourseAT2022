@@ -1,8 +1,0 @@
-C:\Users\denis\source\repos\lab\lab\bin\Debug\lab.exe.config
-C:\Users\denis\source\repos\lab\lab\bin\Debug\lab.exe
-C:\Users\denis\source\repos\lab\lab\bin\Debug\lab.pdb
-C:\Users\denis\source\repos\lab\lab\obj\Debug\lab.csproj.AssemblyReference.cache
-C:\Users\denis\source\repos\lab\lab\obj\Debug\lab.csproj.SuggestedBindingRedirects.cache
-C:\Users\denis\source\repos\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
-C:\Users\denis\source\repos\lab\lab\obj\Debug\lab.exe
-C:\Users\denis\source\repos\lab\lab\obj\Debug\lab.pdb

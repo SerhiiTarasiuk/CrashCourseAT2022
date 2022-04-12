@@ -16,27 +16,8 @@ namespace lab
 
             double data2 = Convert.ToDouble(Console.ReadLine());
 
-            double result= (data1 + data2)/2;
+            double result = (data1 + data2) / 2;
             Console.WriteLine(result);
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
