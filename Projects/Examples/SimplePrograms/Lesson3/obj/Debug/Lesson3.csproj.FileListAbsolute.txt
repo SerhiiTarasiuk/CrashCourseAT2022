@@ -1,0 +1,3 @@
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Debug\Lesson3.exe

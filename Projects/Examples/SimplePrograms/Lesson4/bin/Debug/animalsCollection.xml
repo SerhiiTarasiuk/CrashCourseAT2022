@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal xsi:type="Cat">
+    <age>2</age>
+    <speed>4</speed>
+    <voise>Meow!</voise>
+  </Animal>
+  <Animal xsi:type="Cat">
+    <age>0</age>
+    <speed>0</speed>
+  </Animal>
+  <Animal>
+    <age>0</age>
+    <speed>0</speed>
+  </Animal>
+  <Animal xsi:type="Cat">
+    <age>8</age>
+    <speed>6</speed>
+    <voise>Meow!</voise>
+  </Animal>
+</ArrayOfAnimal>

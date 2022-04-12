@@ -1,0 +1,11 @@
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\bin\Release\data.txt
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\bin\Release\Lesson3.exe.config
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\bin\Release\Lesson3.exe
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\bin\Release\Lesson3.pdb
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\bin\Release\Newtonsoft.Json.dll
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\bin\Release\Newtonsoft.Json.xml
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Release\Lesson3.csproj.AssemblyReference.cache
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Release\Lesson3.csproj.CoreCompileInputs.cache
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Release\Lesson3.csproj.CopyComplete
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Release\Lesson3.exe
+C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson3\obj\Release\Lesson3.pdb

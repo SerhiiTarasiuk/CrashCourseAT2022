@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UXUwsHADUNEOvFqTSWTV6MSqOqHq7GTSK8APAuNlLchR5zYiGiP68X0vFY3aZyN+/zJQ+IU0GLNIaWl6FeBWA==",
+  "success": true,
+  "projectFilePath": "C:\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\Lesson1\\Lesson1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aromanuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aromanuk\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\aromanuk\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\aromanuk\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\aromanuk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
