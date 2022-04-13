@@ -1,0 +1,7 @@
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\bin\Debug\Задача6_8.exe.config
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\bin\Debug\Задача6_8.exe
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\bin\Debug\Задача6_8.pdb
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\obj\Debug\Задача6_8.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\obj\Debug\Задача6_8.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\obj\Debug\Задача6_8.exe
+C:\Users\Юрий\source\repos\Задача6_8\Задача6_8\obj\Debug\Задача6_8.pdb
