@@ -1,0 +1,6 @@
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task204\bin\Debug\Task204.exe.config
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task204\bin\Debug\Task204.exe
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task204\bin\Debug\Task204.pdb
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task204\obj\Debug\Task204.csproj.CoreCompileInputs.cache
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task204\obj\Debug\Task204.exe
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task204\obj\Debug\Task204.pdb
