@@ -4,3 +4,4 @@ C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mer
 C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task207\obj\Debug\Task207.csproj.CoreCompileInputs.cache
 C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task207\obj\Debug\Task207.exe
 C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task207\obj\Debug\Task207.pdb
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task207\obj\Debug\Task207.csproj.AssemblyReference.cache

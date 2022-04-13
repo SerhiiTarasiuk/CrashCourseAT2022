@@ -1,0 +1,6 @@
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task209\bin\Debug\Task209.exe.config
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task209\bin\Debug\Task209.exe
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task209\bin\Debug\Task209.pdb
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task209\obj\Debug\Task209.csproj.CoreCompileInputs.cache
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task209\obj\Debug\Task209.exe
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task209\obj\Debug\Task209.pdb
