@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< Updated upstream:Projects/TEAM-3/Kirichok/KirichokTasks/KirichokTasks.sln
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task201", "Task201\Task201.csproj", "{E393F230-9F23-4823-BEE5-F9AB5BEC0876}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "203", "203\203.csproj", "{BE0AC714-7150-4246-8CAB-CF1C043B0D9C}"
+>>>>>>> Stashed changes:Projects/TEAM-3/Kirichok/Kirichok.sln
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< Updated upstream:Projects/TEAM-3/Kirichok/KirichokTasks/KirichokTasks.sln
 		{E393F230-9F23-4823-BEE5-F9AB5BEC0876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E393F230-9F23-4823-BEE5-F9AB5BEC0876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E393F230-9F23-4823-BEE5-F9AB5BEC0876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E393F230-9F23-4823-BEE5-F9AB5BEC0876}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{BE0AC714-7150-4246-8CAB-CF1C043B0D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0AC714-7150-4246-8CAB-CF1C043B0D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0AC714-7150-4246-8CAB-CF1C043B0D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0AC714-7150-4246-8CAB-CF1C043B0D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes:Projects/TEAM-3/Kirichok/Kirichok.sln
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< Updated upstream:Projects/TEAM-3/Kirichok/KirichokTasks/KirichokTasks.sln
 		SolutionGuid = {E8D16F0F-A8D4-47CE-AF17-EBA67F709BCA}
+=======
+		SolutionGuid = {607201DB-9762-4590-B06A-1A3FACDC5C21}
+>>>>>>> Stashed changes:Projects/TEAM-3/Kirichok/Kirichok.sln
 	EndGlobalSection
 EndGlobal
