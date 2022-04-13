@@ -1,0 +1,8 @@
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\bin\Debug\206.exe.config
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\bin\Debug\206.exe
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\bin\Debug\206.pdb
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\obj\Debug\206.csproj.AssemblyReference.cache
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\obj\Debug\206.csproj.SuggestedBindingRedirects.cache
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\obj\Debug\206.csproj.CoreCompileInputs.cache
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\obj\Debug\206.exe
+C:\Users\sup2a\OneDrive\Desktop\Romanovska\206\obj\Debug\206.pdb
