@@ -1,6 +1,0 @@
-C:\Users\makci\source\repos\Task208\bin\Debug\Task208.exe.config
-C:\Users\makci\source\repos\Task208\bin\Debug\Task208.exe
-C:\Users\makci\source\repos\Task208\bin\Debug\Task208.pdb
-C:\Users\makci\source\repos\Task208\obj\Debug\Task208.csproj.CoreCompileInputs.cache
-C:\Users\makci\source\repos\Task208\obj\Debug\Task208.exe
-C:\Users\makci\source\repos\Task208\obj\Debug\Task208.pdb

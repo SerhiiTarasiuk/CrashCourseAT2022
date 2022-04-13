@@ -1,7 +1,0 @@
-D:\visualstudio\SOFTSERVER\EX 206 - 208\bin\Debug\EX 206 - 208.exe.config
-D:\visualstudio\SOFTSERVER\EX 206 - 208\bin\Debug\EX 206 - 208.exe
-D:\visualstudio\SOFTSERVER\EX 206 - 208\bin\Debug\EX 206 - 208.pdb
-D:\visualstudio\SOFTSERVER\EX 206 - 208\obj\Debug\EX 206 - 208.csproj.AssemblyReference.cache
-D:\visualstudio\SOFTSERVER\EX 206 - 208\obj\Debug\EX 206 - 208.csproj.CoreCompileInputs.cache
-D:\visualstudio\SOFTSERVER\EX 206 - 208\obj\Debug\EX 206 - 208.exe
-D:\visualstudio\SOFTSERVER\EX 206 - 208\obj\Debug\EX 206 - 208.pdb
