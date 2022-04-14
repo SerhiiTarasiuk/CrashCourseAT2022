@@ -1839,24 +1839,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Antonio\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\aromanuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Study\\SoftServe\\TAQC_2022\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\RestAPI\\RestAPI.csproj",
+      "projectUniqueName": "C:\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\RestAPI\\RestAPI.csproj",
       "projectName": "RestAPI",
-      "projectPath": "C:\\Study\\SoftServe\\TAQC_2022\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\RestAPI\\RestAPI.csproj",
-      "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Study\\SoftServe\\TAQC_2022\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\RestAPI\\obj\\",
+      "projectPath": "C:\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\RestAPI\\RestAPI.csproj",
+      "packagesPath": "C:\\Users\\aromanuk\\.nuget\\packages\\",
+      "outputPath": "C:\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\RestAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\aromanuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1870,8 +1865,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Study\\SoftServe\\TAQC_2022\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\Lesson1\\Lesson1.csproj": {
-              "projectPath": "C:\\Study\\SoftServe\\TAQC_2022\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\Lesson1\\Lesson1.csproj"
+            "C:\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\Lesson1\\Lesson1.csproj": {
+              "projectPath": "C:\\CrashCourseAT2022\\Projects\\Examples\\SimplePrograms\\Lesson1\\Lesson1.csproj"
             }
           }
         }
@@ -1926,7 +1921,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
