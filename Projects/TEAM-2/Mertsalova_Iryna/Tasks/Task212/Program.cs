@@ -10,23 +10,26 @@ namespace Task212
     {
         static void Main(string[] args)
         {
-            int num = 0, res = 0;
+            int num = 0, res = 0, numTest = 0; ;
             var list = new List<int>();
-            Console.WriteLine(" Enter a number : ");
+            Console.Write(" Enter any number : ");
+            num = Int32.Parse(Console.ReadLine());
+            numTest = num;
             do
             {
-                res = num % 10;
+                res = numTest % 10;
                 list.Add(res);
-                num /= 10;
-            } while (num != 0);
+                numTest /= 10;
+            } while (numTest != 0);
 
-            var unique = list.Distinct();
-            var length = unique.Count();
-            foreach (var i in unique)
+            var uniqueDigit = list.Distinct();
+            Console.WriteLine();
+            foreach (var i in uniqueDigit)
             {
-                Console.WriteLine(i);
+                Console.Write("   " + i);
             }
-            Console.WriteLine($"В числe {length} цифр");
+            int length = uniqueDigit.Count();
+            Console.WriteLine("\n In number " + num + " --> " + length + " digits");
         }
     }
 }
