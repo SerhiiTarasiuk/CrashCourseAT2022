@@ -12,7 +12,7 @@ namespace Lesson2
     //Якщо ми хочемо ініціалізувати об'єкт класу нащадка, то
     //ми МУСИМО перевизначити УСІ абстрактні методи. 
 
-    public abstract class Organisms
+    public abstract class AOrganisms
     {
 
         //віртуальні virtual методи можуть бути переписані\override в класах нащадках = принцип ООП поліморфізм

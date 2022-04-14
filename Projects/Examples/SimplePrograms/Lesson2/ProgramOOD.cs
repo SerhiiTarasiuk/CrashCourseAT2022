@@ -21,7 +21,7 @@ namespace Lesson2
         
         public static async Task Main(string[] args)
         {
-            //виклик перезавантажених методів
+            //виклик перезавантажених overload методів
             calculate(3);
             calculate(3, 7);
             calculate("text", "text2");
