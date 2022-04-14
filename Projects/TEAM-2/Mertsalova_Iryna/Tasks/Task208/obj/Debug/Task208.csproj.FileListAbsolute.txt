@@ -1,0 +1,7 @@
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\obj\Debug\Task208.csproj.AssemblyReference.cache
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\obj\Debug\Task208.csproj.CoreCompileInputs.cache
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\bin\Debug\Task208.exe.config
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\bin\Debug\Task208.exe
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\bin\Debug\Task208.pdb
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\obj\Debug\Task208.exe
+C:\Users\Iryna Mertsalova\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-2\Mertsalova_Iryna\Tasks\Task208\obj\Debug\Task208.pdb

@@ -1,0 +1,8 @@
+C:\Users\denis\source\repos\lab\220\obj\Debug\220.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\lab\220\obj\Debug\220.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\lab\220\obj\Debug\220.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\lab\220\bin\Debug\220.exe.config
+C:\Users\denis\source\repos\lab\220\bin\Debug\220.exe
+C:\Users\denis\source\repos\lab\220\bin\Debug\220.pdb
+C:\Users\denis\source\repos\lab\220\obj\Debug\220.exe
+C:\Users\denis\source\repos\lab\220\obj\Debug\220.pdb

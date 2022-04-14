@@ -1,0 +1,8 @@
+C:\Users\denis\source\repos\lab\213\bin\Debug\213.exe.config
+C:\Users\denis\source\repos\lab\213\bin\Debug\213.exe
+C:\Users\denis\source\repos\lab\213\bin\Debug\213.pdb
+C:\Users\denis\source\repos\lab\213\obj\Debug\213.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\lab\213\obj\Debug\213.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\lab\213\obj\Debug\213.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\lab\213\obj\Debug\213.exe
+C:\Users\denis\source\repos\lab\213\obj\Debug\213.pdb

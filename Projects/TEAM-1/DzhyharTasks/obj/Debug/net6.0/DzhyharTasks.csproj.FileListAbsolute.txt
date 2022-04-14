@@ -1,0 +1,30 @@
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\DzhyharTasks.exe
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\DzhyharTasks.deps.json
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\DzhyharTasks.runtimeconfig.json
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\DzhyharTasks.pdb
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.csproj.AssemblyReference.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.AssemblyInfoInputs.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.AssemblyInfo.cs
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.csproj.CoreCompileInputs.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\refint\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.pdb
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\DzhyharTasks.genruntimeconfig.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\ref\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\DzhyharTasks\bin\Debug\net6.0\DzhyharTasks.exe
+C:\Users\Admin777\Source\Repos\DzhyharTasks\bin\Debug\net6.0\DzhyharTasks.deps.json
+C:\Users\Admin777\Source\Repos\DzhyharTasks\bin\Debug\net6.0\DzhyharTasks.runtimeconfig.json
+C:\Users\Admin777\Source\Repos\DzhyharTasks\bin\Debug\net6.0\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\DzhyharTasks\bin\Debug\net6.0\DzhyharTasks.pdb
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.csproj.AssemblyReference.cache
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.AssemblyInfoInputs.cache
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.AssemblyInfo.cs
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.csproj.CoreCompileInputs.cache
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\refint\DzhyharTasks.dll
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.pdb
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\DzhyharTasks.genruntimeconfig.cache
+C:\Users\Admin777\Source\Repos\DzhyharTasks\obj\Debug\net6.0\ref\DzhyharTasks.dll
