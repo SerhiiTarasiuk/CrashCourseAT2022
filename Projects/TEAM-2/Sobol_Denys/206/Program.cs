@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//1. Напишіть програму, яка перевіряє число, введене з клавіатури на парність.
 namespace _206
 {
     internal class Program

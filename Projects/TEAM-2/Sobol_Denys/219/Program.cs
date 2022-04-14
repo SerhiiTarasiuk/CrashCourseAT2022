@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//4. Написати програму, яка знаходить в масиві найменше непарне число і показує його на екран.
 namespace _219
 {
     internal class Program

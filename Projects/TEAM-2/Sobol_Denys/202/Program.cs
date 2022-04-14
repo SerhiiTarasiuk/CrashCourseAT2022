@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//2.Напишіть програму, яка переводить гривні в $, Є.
 namespace _202
 {
     internal class Program
