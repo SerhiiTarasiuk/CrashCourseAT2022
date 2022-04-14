@@ -1,5 +1,16 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//"7. Написати програму, яка виводить на екран - наступну фігуру:
+//"" * ********************
+//**
+//**
+//**
+//**
+//*********************
+//ширина і висота фігури встановлюються користувачем з клавіатури."
 namespace hw_215
 {
     class hw_215

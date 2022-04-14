@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//"1. Написати програму, яка виводить вміст масиву навпаки.
+//Приклад: масив 23 11 6 перетворюється в 6 23 11."
 namespace _216
 {
     internal class Program
