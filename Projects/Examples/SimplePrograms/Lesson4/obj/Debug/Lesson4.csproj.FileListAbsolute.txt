@@ -1,3 +1,15 @@
 C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
 C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
 C:\CrashCourseAT2109\CrashCourseAT2109\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.exe
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\data.txt
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Lesson4.exe.config
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Lesson4.exe
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Lesson4.pdb
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Newtonsoft.Json.dll
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\nunit.framework.dll
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Newtonsoft.Json.xml
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\nunit.framework.xml
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.CopyComplete
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.exe
+C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.pdb

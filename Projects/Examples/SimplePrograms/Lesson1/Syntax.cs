@@ -6,12 +6,6 @@ namespace Lesson1
 {
     class Syntax
     {
-        public static bool tryTrenary() {
-
-            Console.WriteLine("Test breakpoins");
-            return true;
-        }
-
         public static void Main(string[] args)
         {
             float floatExample = 1.3f;
@@ -39,12 +33,21 @@ namespace Lesson1
             isTrue = a <= b;
             isTrue = a == b;
 
-            //var variableExample = "45567";
+            //тринарний логічний оператор
+            var logicalResult = isTrue? tryTrenary() : false;
+            
+            Console.WriteLine(logicalResult);
+            Console.Beep();
 
-            DateTime currentDay = DateTime.Now;
+            //Бажано використовувати var - компілятор сам визначить і встановить необхідний тип даних для змінної
+            var variableExample = "45567";
 
+
+            DateTime currentDay = DateTime.Today;
+
+
+            //Масиви
             int[] intArray, intArray2;
-
 
             intArray = new int[3] { 1, 2, 3 };
 
@@ -55,9 +58,8 @@ namespace Lesson1
 
             isTrue = true;
 
-            Console.WriteLine(isTrue ? tryTrenary() : false);
 
-            Console.Beep();
+            //Оператори вітвлень 
 
             /*
             for (int i = 0; i <= 3; i++)
@@ -161,16 +163,16 @@ namespace Lesson1
                        } while (i > 1);
                 */
 
-            //Tuples
+            //Tuples - кортежі
             (string, int, double) person = ("Tom", 25, 81.23);
-
             (string, int, double) person1 = person;
 
             person.Item1 = "changed";
 
             Console.WriteLine(person1.Item1);
 
-            //Enums
+
+            //Enums - приклад роботи з перечисленнями
             Console.WriteLine(Days.Monday);
             Console.WriteLine((int)Days.Wednesday);
 
@@ -179,9 +181,16 @@ namespace Lesson1
             //   Console.ReadLine();
         }
 
-    
+        //оголошення статичного методу tryTrenary()
+        //статичні методи належать класу а не об'єкту, для роботи зі статичними методами не потрібно створювати об'єкт
+        public static bool tryTrenary()
+        {
+            Console.WriteLine("Test breakpoins");
+            return true;
+        }
 
-        //Enums
+
+        //Enums - приклад перечислень
         enum Days
         {
             Monday = 1,
