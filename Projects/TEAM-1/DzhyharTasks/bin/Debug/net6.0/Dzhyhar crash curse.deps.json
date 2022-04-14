@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dzhyhar crash curse/1.0.0": {
+        "runtime": {
+          "Dzhyhar crash curse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dzhyhar crash curse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
