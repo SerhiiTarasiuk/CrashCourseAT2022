@@ -1,0 +1,6 @@
+C:\Users\makci\source\repos\Task206\bin\Debug\Task206.exe.config
+C:\Users\makci\source\repos\Task206\bin\Debug\Task206.exe
+C:\Users\makci\source\repos\Task206\bin\Debug\Task206.pdb
+C:\Users\makci\source\repos\Task206\obj\Debug\Task206.csproj.CoreCompileInputs.cache
+C:\Users\makci\source\repos\Task206\obj\Debug\Task206.exe
+C:\Users\makci\source\repos\Task206\obj\Debug\Task206.pdb
