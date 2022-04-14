@@ -188,7 +188,6 @@ C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\bin\Debug\ne
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\obj\Debug\netcoreapp3.1\SeleniumTests.csproj.AssemblyReference.cache
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\obj\Debug\netcoreapp3.1\SeleniumTests.AssemblyInfoInputs.cache
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\obj\Debug\netcoreapp3.1\SeleniumTests.AssemblyInfo.cs
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\SeleniumTests\obj\Debug\netcoreapp3.1\SeleniumTests.csproj.CoreCompileInputs.cache

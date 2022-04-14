@@ -9,7 +9,6 @@ C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Newtonso
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\nunit.framework.dll
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\Newtonsoft.Json.xml
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\bin\Debug\nunit.framework.xml
-C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.csproj.CopyComplete
 C:\CrashCourseAT2022\Projects\Examples\SimplePrograms\Lesson4\obj\Debug\Lesson4.exe
