@@ -1,0 +1,7 @@
+D:\visualstudio\SOFTSERVER\EX 220\bin\Debug\EX 220.exe.config
+D:\visualstudio\SOFTSERVER\EX 220\bin\Debug\EX 220.exe
+D:\visualstudio\SOFTSERVER\EX 220\bin\Debug\EX 220.pdb
+D:\visualstudio\SOFTSERVER\EX 220\obj\Debug\EX 220.csproj.AssemblyReference.cache
+D:\visualstudio\SOFTSERVER\EX 220\obj\Debug\EX 220.csproj.CoreCompileInputs.cache
+D:\visualstudio\SOFTSERVER\EX 220\obj\Debug\EX 220.exe
+D:\visualstudio\SOFTSERVER\EX 220\obj\Debug\EX 220.pdb
