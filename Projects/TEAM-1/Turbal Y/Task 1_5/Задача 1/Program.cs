@@ -8,6 +8,7 @@ namespace Задача_1
 {
     static class zadachi
     {
+      //сероеднє двох чисел
         public static float serednie(float num1,float num2)
         {
             return (num1 + num2) / 2;
