@@ -1,0 +1,15 @@
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.csproj.AssemblyReference.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.AssemblyInfoInputs.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.AssemblyInfo.cs
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.csproj.CoreCompileInputs.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\Dzhyhar crash curse.exe
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\Dzhyhar crash curse.deps.json
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\Dzhyhar crash curse.runtimeconfig.json
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\Dzhyhar crash curse.dll
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\bin\Debug\net6.0\Dzhyhar crash curse.pdb
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.dll
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\refint\Dzhyhar crash curse.dll
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.pdb
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\Dzhyhar crash curse.genruntimeconfig.cache
+C:\Users\Admin777\Source\Repos\Dzhyhar crash curse\obj\Debug\net6.0\ref\Dzhyhar crash curse.dll

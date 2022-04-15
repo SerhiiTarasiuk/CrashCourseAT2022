@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//5. Введіть три числа і виведіть на екран значення суми і добуток цих чисел.
 namespace _205
 {
     internal class Program

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Написати overload методи Add які в залежності від параметрів або додають цифрові значення, або об'єднують введені тексти. Передбачити аргументи за замовчуванням і використання глобальних змінних.
 namespace _220
 {
     internal class Program

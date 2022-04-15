@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//3. Написати програму, яка знаходить в масиві значення, що повторюються два і більше разів, і показує їх на екран.
 namespace _218
 {
     internal class Program

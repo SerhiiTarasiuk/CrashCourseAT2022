@@ -3,7 +3,7 @@ using System.Xml.Serialization;
 
 namespace Lesson2
 {
-    public class Animal : Organisms //клас Animal наслідується від абстрактного класу Organisms
+    public class Animal : AOrganisms //клас Animal наслідується від абстрактного класу AOrganisms
     {
     #region Fields
         //різні модифікатори доступу
