@@ -6,7 +6,7 @@
 
 
 int count =0;
-bool Incorect_input = true;
+bool corect_input = true;
 
 //зчитуємо довільну кількість елементів масиву,які записані в один рядок і розділені пробілами
 Console.WriteLine("Please, input elements of array in one line with spaces between them:");
@@ -19,13 +19,13 @@ for (int i=count-1; i>=0; i--)
     int flag = 0;
     bool is_number = int.TryParse(elements[i], out flag);
     if (is_number == false)
-        Incorect_input = false;
+        corect_input = false;
     Console.Write("{0} ", elements[i]);
 }
 
 Console.WriteLine();
 
-if (Incorect_input == false)
+if (corect_input == false)
     { Console.WriteLine("One or more elements in the array you entered is not a number!"); }
 
 
