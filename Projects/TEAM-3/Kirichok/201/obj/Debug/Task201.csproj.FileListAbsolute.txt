@@ -1,8 +1,0 @@
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\bin\Debug\Task201.exe.config
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\bin\Debug\Task201.exe
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\bin\Debug\Task201.pdb
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\obj\Debug\Task201.csproj.AssemblyReference.cache
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\obj\Debug\Task201.csproj.SuggestedBindingRedirects.cache
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\obj\Debug\Task201.csproj.CoreCompileInputs.cache
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\obj\Debug\Task201.exe
-C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task201\obj\Debug\Task201.pdb

@@ -6,3 +6,11 @@ C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\203\
 C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\203\obj\Debug\203.csproj.CoreCompileInputs.cache
 C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\203\obj\Debug\203.exe
 C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\203\obj\Debug\203.pdb
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\bin\Debug\203.exe.config
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\bin\Debug\203.exe
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\bin\Debug\203.pdb
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\obj\Debug\203.csproj.AssemblyReference.cache
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\obj\Debug\203.csproj.SuggestedBindingRedirects.cache
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\obj\Debug\203.csproj.CoreCompileInputs.cache
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\obj\Debug\203.exe
+C:\Users\мбк\Documents\GitHub\CrashCourseAT2022\Projects\TEAM-3\Kirichok\KirichokTasks\Task203\obj\Debug\203.pdb
