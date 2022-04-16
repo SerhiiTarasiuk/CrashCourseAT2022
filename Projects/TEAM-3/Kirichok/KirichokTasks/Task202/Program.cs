@@ -24,6 +24,8 @@ namespace Task202
             {
                 Console.WriteLine("Не пиши фігню");
             }
+                        
+            Console.WriteLine("Тицьни любу кнопку");
 
             Console.ReadLine();
 
